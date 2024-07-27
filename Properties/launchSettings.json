@@ -2,7 +2,7 @@
   "profiles": {
     "GMSCacheManager": {
       "commandName": "Project",
-      "commandLineArgs": "-clearLightweightData -doExternalRoomClear \"C:\\Users\\Gannio\\repos\\magmml3-judge-repo\\lw_MaGMML3.project.gmx\""
+      "commandLineArgs": "-optimizeTexturePages \"C:\\Users\\Gannio\\repos\\magmml3-judge-repo\\MaGMML3.project.gmx\""
     }
   }
 }
